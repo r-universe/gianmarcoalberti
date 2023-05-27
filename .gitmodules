@@ -18,6 +18,11 @@
 	url = https://github.com/cran/CAinterprTools
 	shallow = true
 	registered = true
+[submodule "caplot"]
+	path = caplot
+	url = https://github.com/cran/caplot
+	shallow = true
+	registered = true
 [submodule "chisquare"]
 	path = chisquare
 	url = https://github.com/cran/chisquare
