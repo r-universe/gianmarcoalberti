@@ -23,6 +23,11 @@
 	url = https://github.com/cran/caplot
 	shallow = true
 	registered = true
+[submodule "caresid"]
+	path = caresid
+	url = https://github.com/cran/caresid
+	shallow = true
+	registered = true
 [submodule "chisquare"]
 	path = chisquare
 	url = https://github.com/cran/chisquare
