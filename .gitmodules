@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "boxplotcluster"]
 	path = boxplotcluster
 	url = https://github.com/cran/boxplotcluster
-	shallow = true
-	registered = true
 [submodule "brsim"]
 	path = brsim
 	url = https://github.com/cran/brsim
-	shallow = true
-	registered = true
 [submodule "CAinterprTools"]
 	path = CAinterprTools
 	url = https://github.com/cran/CAinterprTools
-	shallow = true
-	registered = true
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
-	shallow = true
-	registered = true
 [submodule "caresid"]
 	path = caresid
 	url = https://github.com/cran/caresid
-	shallow = true
-	registered = true
 [submodule "chisquare"]
 	path = chisquare
 	url = https://github.com/cran/chisquare
-	shallow = true
-	registered = true
 [submodule "movecost"]
 	path = movecost
 	url = https://github.com/cran/movecost
-	shallow = true
-	registered = true
