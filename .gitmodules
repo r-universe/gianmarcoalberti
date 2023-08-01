@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CAinterprTools"]
+	path = CAinterprTools
+	url = https://github.com/cran/CAinterprTools
 [submodule "boxplotcluster"]
 	path = boxplotcluster
 	url = https://github.com/cran/boxplotcluster
 [submodule "brsim"]
 	path = brsim
 	url = https://github.com/cran/brsim
-[submodule "CAinterprTools"]
-	path = CAinterprTools
-	url = https://github.com/cran/CAinterprTools
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
