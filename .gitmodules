@@ -26,3 +26,6 @@
 [submodule "movecost"]
 	path = movecost
 	url = https://github.com/cran/movecost
+[submodule "stratastats"]
+	path = stratastats
+	url = https://github.com/cran/stratastats
